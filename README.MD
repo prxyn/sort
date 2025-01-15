@@ -1,3 +1,5 @@
+***Note: This project is for fun and has been archived. It will not be updated.***
+
 # Sorting Visualizer
 
 ## Overview
